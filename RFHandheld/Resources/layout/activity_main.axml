@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:background="#ffe7ffe7"
+	android:minWidth="25px"
+	android:minHeight="25px">
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_marginBottom="20sp" >
+		<ImageView
+			android:src="@drawable/logo"
+			android:layout_width="75sp"
+			android:layout_height="75sp"
+			android:id="@+id/imageLogo" />
+		<TextView
+			android:text="WAREHOUSE CONTROL SYSTEM"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:gravity="center_vertical|center"
+			android:textColor="#00B04E"
+			android:textSize="24sp"
+			android:id="@+id/textAppName"
+			android:textStyle="bold"/>
+	</LinearLayout>
+	<ScrollView
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content" >
+		<LinearLayout
+			android:orientation="vertical"
+			android:minWidth="25px"
+			android:minHeight="25px"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent" >
+			<LinearLayout
+				android:orientation="horizontal"
+				android:minWidth="25px"
+				android:minHeight="25px"
+				android:layout_width="match_parent"
+				android:layout_height="75sp"
+				android:weightSum="3" >
+				<Space
+					android:layout_width="4dp" 
+					android:layout_height="wrap_content" />
+				<Button
+					android:text="MAPPING"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btMapping" />
+				<Button
+					android:text="PUT IN&#10;(AWAY)"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btPutin" />
+				<Button
+					android:text="MOVE"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btMove" />
+				<Space
+					android:layout_width="4dp" 
+					android:layout_height="wrap_content" />
+			</LinearLayout>
+			<LinearLayout
+				android:orientation="horizontal"
+				android:minWidth="25px"
+				android:minHeight="25px"
+				android:layout_width="match_parent"
+				android:layout_height="75sp"
+				android:weightSum="3">
+				<Space
+					android:layout_width="4dp"
+					android:layout_height="wrap_content" />
+				<Button
+					android:text="CHANGE PALLET"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btChangePallet" />
+				<Button
+					android:text="TRACKING&#10;(FIND)"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btTracking" />
+				<Button
+					android:text="PUT OUT&#10;(PICKING)"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btPicking"/>
+				<Space
+					android:layout_width="4dp"
+					android:layout_height="wrap_content" />
+			</LinearLayout>
+			<LinearLayout
+				android:orientation="horizontal"
+				android:minWidth="25px"
+				android:minHeight="25px"
+				android:layout_width="match_parent"
+				android:layout_height="75sp"
+				android:weightSum="3" >
+				<Space
+					android:layout_width="4dp" 
+					android:layout_height="wrap_content" />
+				<Button
+					android:text="DELETE MAPPING"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:textColor="#FFFFFF"
+					android:textSize="18sp"
+					android:id="@+id/btDelete" />
+				<Button
+					android:text="DISABLED"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:background="#ffe7ffe7"
+					android:id="@+id/btUndefine2"
+					android:enabled="false" />
+				<Button
+					android:text="DISABLED"
+					android:layout_width="0dp"
+					android:layout_height="match_parent"
+					android:layout_weight="1"
+					android:background="#ffe7ffe7"
+					android:id="@+id/btUndefine3"
+					android:enabled="false" />
+				<Space
+					android:layout_width="4dp" 
+					android:layout_height="wrap_content" />
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>
+	<LinearLayout
+		android:orientation="horizontal"
+		android:minWidth="25px"
+		android:minHeight="25px"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+		android:gravity="bottom" >
+		<TextView
+			android:text=" Version 1.2.29032024"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:textSize="12sp" />
+		<View
+			android:layout_width="0dp"
+			android:layout_height="0dp"
+			android:layout_weight="1" />
+		<Button
+			android:text="· · ·"
+			android:layout_width="wrap_content"
+			android:layout_height="40sp"
+			android:background="#ffe7ffe7"
+			android:textSize="12sp"
+			android:id="@+id/btSettings"
+			android:textStyle="bold"/>
+	</LinearLayout>
+</LinearLayout>

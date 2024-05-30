@@ -1,0 +1,21 @@
+Hash 32     Hash 64             Blob ID  Blob idx  Name
+0x12145079  0x0fbeb3b608f0b637  000      0000      RFHandheld
+0x38f24a24  0x18071957e9b889d7  000      0001      Newtonsoft.Json
+0xb6e8e036  0xf67b9bfb46dbac71  000      0002      Xamarin.Android.Arch.Lifecycle.Common
+0x1ead1551  0x9de14f3d5fc13cc4  000      0003      Xamarin.Android.Support.Compat
+0x173e7f54  0xc7da1f051a877d18  000      0004      Xamarin.Android.Support.Core.UI
+0x811c5185  0xb3c0e8eff48193ad  000      0005      Xamarin.Android.Support.Core.Utils
+0x5627bde0  0x12a14d31b1d4d88a  000      0006      Xamarin.Android.Support.Fragment
+0xdb3d354c  0x18366e19eeceb202  000      0007      Xamarin.Android.Support.v7.AppCompat
+0xc8a662e9  0x77b654e585b55834  000      0008      Java.Interop
+0xcf3163e6  0x01accec39cafe242  000      0009      Mono.Android
+0x1bc4415d  0xe99c30c1484d7f4f  000      0010      mscorlib
+0xf76edc75  0x98f9bc61168392ac  000      0011      System.Core
+0x41761b2c  0xe03056ea4e39aa26  000      0012      System
+0x8334206b  0x6a3a4366801b8264  000      0013      System.Net.Http
+0xcc6479a0  0x992e31d0412bf7fc  000      0014      System.Xml
+0xc5b79d28  0x6c87ca1e14ff8111  000      0015      System.Data
+0x132b30dd  0x31042a9aade235bb  000      0016      System.Numerics
+0xb979e222  0xb98de304062ea945  000      0017      System.Runtime.Serialization
+0xd128d608  0x5f6f85a57d108914  000      0018      System.Xml.Linq
+0xc197c562  0x8ac2470b209ebae3  000      0019      Mono.Security

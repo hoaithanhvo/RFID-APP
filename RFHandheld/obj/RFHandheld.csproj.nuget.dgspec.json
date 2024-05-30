@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj": {}
+  },
+  "projects": {
+    "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj",
+        "projectName": "RFHandheld",
+        "projectPath": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj",
+        "packagesPath": "C:\\Users\\B600044177\\.nuget\\packages\\",
+        "outputPath": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\B600044177\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid81"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid81": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "monoandroid81": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

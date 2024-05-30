@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B600044177\\RFHandheld\\RFHandheld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|d:\\b600044177\\rfhandheld\\rfhandheld\\rfhandheld\\utilities\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\utilities\\api.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\activities\\putinactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\activities\\putinactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\activities\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\activities\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\put_in.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\put_in.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RFHandheld||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\activities\\deletemappingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\activities\\deletemappingactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\activities\\changepalletactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\activities\\changepalletactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\aboutresources.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\aboutresources.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\move.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\move.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\mapping.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\mapping.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\delete.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\delete.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\tracking.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\tracking.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\resources\\layout\\activity_main.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\resources\\layout\\activity_main.axml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\utilities\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\utilities\\object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|D:\\B600044177\\RFHandheld\\RFHandheld\\rfhandheld\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3130D8E0-D05F-4864-B7A6-A5D3341C088E}|RFHandheld\\RFHandheld.csproj|solutionrelative:rfhandheld\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\MainActivity.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Activities\\MainActivity.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\MainActivity.cs",
+              "RelativeToolTip": "RFHandheld\\Activities\\MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:58:54.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutResources.txt",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\AboutResources.txt",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\AboutResources.txt",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\AboutResources.txt",
+              "RelativeToolTip": "RFHandheld\\Resources\\AboutResources.txt",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-30T03:58:51.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangePalletActivity.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\ChangePalletActivity.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Activities\\ChangePalletActivity.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\ChangePalletActivity.cs",
+              "RelativeToolTip": "RFHandheld\\Activities\\ChangePalletActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:58:38.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteMappingActivity.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\DeleteMappingActivity.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Activities\\DeleteMappingActivity.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\DeleteMappingActivity.cs",
+              "RelativeToolTip": "RFHandheld\\Activities\\DeleteMappingActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:58:36.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RFHandheld",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj",
+              "RelativeDocumentMoniker": "RFHandheld\\RFHandheld.csproj",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\RFHandheld.csproj",
+              "RelativeToolTip": "RFHandheld\\RFHandheld.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:40:29.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "put_in.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\put_in.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\put_in.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\put_in.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\put_in.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:32:58.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PutInActivity.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\PutInActivity.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Activities\\PutInActivity.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Activities\\PutInActivity.cs",
+              "RelativeToolTip": "RFHandheld\\Activities\\PutInActivity.cs",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAlwCwBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:32:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "API.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Utilities\\API.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Utilities\\API.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Utilities\\API.cs",
+              "RelativeToolTip": "RFHandheld\\Utilities\\API.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAADgv0oBAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:18:24.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "delete.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\delete.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\delete.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\delete.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\delete.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:30:03.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "tracking.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\tracking.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\tracking.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\tracking.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\tracking.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:30:00.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\Resource.designer.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "RFHandheld\\Resources\\Resource.designer.cs",
+              "ViewState": "AQIAABkMAAAAAAAAAAAswDAMAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:21:27.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "mapping.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\mapping.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\mapping.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\mapping.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\mapping.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:30:05.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "activity_main.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\activity_main.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\activity_main.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\activity_main.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\activity_main.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:26:34.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Object.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Utilities\\Object.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Utilities\\Object.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Utilities\\Object.cs",
+              "RelativeToolTip": "RFHandheld\\Utilities\\Object.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:26:27.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "move.axml",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\move.axml",
+              "RelativeDocumentMoniker": "RFHandheld\\Resources\\layout\\move.axml",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Resources\\layout\\move.axml",
+              "RelativeToolTip": "RFHandheld\\Resources\\layout\\move.axml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T03:30:07.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "RFHandheld\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\B600044177\\RFHandheld\\RFHandheld\\RFHandheld\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "RFHandheld\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:10:11.872Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
